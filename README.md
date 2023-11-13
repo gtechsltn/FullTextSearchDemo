@@ -1,5 +1,10 @@
 # Lucene.NET powered search library for ASP.NET Core
 
++ [Lucene.NET: Facets — made simple](https://medium.com/@rojasjimenezjosea/lucene-net-facets-made-simple-1de9e2cdc314)
++ [Lucene.NET powered search library for ASP.NET Core](https://medium.com/@rojasjimenezjosea/lucene-net-powered-search-library-for-asp-net-core-ef8dc23959bd)
++ [Full Text Search Demo using Lucene.NET](https://github.com/rojasjo/FullTextSearchDemo)
++ [Deploy full stack ASP.NET Core with Azure SQL database to Azure for free (part1)](https://medium.com/@rojasjimenezjosea/deploy-full-stack-asp-net-core-with-azure-sql-database-to-azure-for-free-dff9072ab56b)
++ [Deploy full stack ASP.NET Core with Azure SQL database to Azure for free (part2)](https://medium.com/@rojasjimenezjosea/deploy-full-stack-asp-net-core-with-azure-sql-database-to-azure-for-free-2-0be0ac0a74ba)
 
 FullTextSearchDemo is a project that provides search engine services for full-text search in documents. It utilizes Lucene.NET for indexing and searching documents efficiently.
 
